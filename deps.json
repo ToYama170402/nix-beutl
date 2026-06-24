@@ -1,0 +1,1077 @@
+[
+  {
+    "pname": "Aigamo.ResXGenerator",
+    "version": "4.3.0",
+    "hash": "sha256-blmmUj6Tjg8iFwrE8G2Eo1IKOAzeDwRnZLhjpW+JhD0="
+  },
+  {
+    "pname": "AsyncImageLoader.Avalonia",
+    "version": "3.7.0",
+    "hash": "sha256-+EwsWWFjg0rCu46aAbFzPTdKoA6A+QvDkN+mUgpRQVI="
+  },
+  {
+    "pname": "Avalonia",
+    "version": "11.1.5",
+    "hash": "sha256-2wgJepxpJfO26gCgqnf4NZjj7j+OIyka9BKd3p44tR8="
+  },
+  {
+    "pname": "Avalonia",
+    "version": "11.3.12",
+    "hash": "sha256-T2y8aoKUSfXqmV2RL1QStytzJkc/SZYfIdJihB5UWR0="
+  },
+  {
+    "pname": "Avalonia",
+    "version": "11.3.17",
+    "hash": "sha256-rwcP29MST4gbwSxFGCgAbfgc327VLffO85+jlZKXSuA="
+  },
+  {
+    "pname": "Avalonia",
+    "version": "11.3.9",
+    "hash": "sha256-bjSH8REHeK19bh8IacmyllDPaWND+TJdkhKGc8LVvjE="
+  },
+  {
+    "pname": "Avalonia.Angle.Windows.Natives",
+    "version": "2.1.25547.20250602",
+    "hash": "sha256-LE/lENAHptmz6t3T/AoJwnhpda+xs7PqriNGzdcfg8M="
+  },
+  {
+    "pname": "Avalonia.BuildServices",
+    "version": "11.3.2",
+    "hash": "sha256-6wx06tjSKWQOlX2czdp6Wh0nuwVapx5qf/s8Qj5we40="
+  },
+  {
+    "pname": "Avalonia.Controls.ColorPicker",
+    "version": "11.3.12",
+    "hash": "sha256-zNpmfOTfw+gKZp8VPpfHe2hjqhrRmExf7lxqLf5OvDg="
+  },
+  {
+    "pname": "Avalonia.Controls.ColorPicker",
+    "version": "11.3.17",
+    "hash": "sha256-uFe2P/mIttNfimHpLHmfvCQ+wBsX9k/6VlHZSJKvbok="
+  },
+  {
+    "pname": "Avalonia.Controls.DataGrid",
+    "version": "11.3.12",
+    "hash": "sha256-xuAL5FOvonyaY9CwEhjtMnurPcA0lYe0dyLLK0GEzd8="
+  },
+  {
+    "pname": "Avalonia.Controls.ItemsRepeater",
+    "version": "11.1.5",
+    "hash": "sha256-k4ZYqXFtyLet3wJB4ZJvaPYbcl0K0oKK04yoesbmCXQ="
+  },
+  {
+    "pname": "Avalonia.Desktop",
+    "version": "11.3.17",
+    "hash": "sha256-/FtHI2hPpNQmJ3phfrkM2PeWm4KSNeXpQQd0fjRxb9A="
+  },
+  {
+    "pname": "Avalonia.Diagnostics",
+    "version": "11.3.17",
+    "hash": "sha256-YISmmO9Nb3rXTHFEa5/Y0AlzXMoraf2Zhz3zC05VU1A="
+  },
+  {
+    "pname": "Avalonia.FreeDesktop",
+    "version": "11.3.17",
+    "hash": "sha256-7VXu2PuOT7K/Eaj9va3XWo8vbIjBGTORwMckmZufKN0="
+  },
+  {
+    "pname": "Avalonia.Native",
+    "version": "11.3.17",
+    "hash": "sha256-czhZCxM8uQElHMtzNhVEWvLtJPl6u2lFpt1kWBwBAGo="
+  },
+  {
+    "pname": "Avalonia.Remote.Protocol",
+    "version": "11.3.12",
+    "hash": "sha256-dF93nP1Cd7ZdzrO7ScGHchxYxCjWN45AjiqiO1J+cmU="
+  },
+  {
+    "pname": "Avalonia.Remote.Protocol",
+    "version": "11.3.17",
+    "hash": "sha256-I1uUXOpNZzcvmi5WqVajirz6YpR87I4pg1FqlS2wVPw="
+  },
+  {
+    "pname": "Avalonia.Skia",
+    "version": "11.3.12",
+    "hash": "sha256-gRMjH7igRIm22zQV0WxtwFHe8AiMTcaPlR0sC5lJy+w="
+  },
+  {
+    "pname": "Avalonia.Skia",
+    "version": "11.3.17",
+    "hash": "sha256-0dShNoRVB3lD3iGh3g0+8z4kq0QqC9ZuChOclTCNk0s="
+  },
+  {
+    "pname": "Avalonia.Skia",
+    "version": "11.3.9",
+    "hash": "sha256-KCL1LNUd2i+50vQpDgfI+aMkIBUWtxExyuc43QIK21o="
+  },
+  {
+    "pname": "Avalonia.Themes.Fluent",
+    "version": "11.3.17",
+    "hash": "sha256-8fXZ2a/p4ePN7gpNkcukebcCE/X6GfELxeEZrhHC7As="
+  },
+  {
+    "pname": "Avalonia.Themes.Simple",
+    "version": "11.3.17",
+    "hash": "sha256-CCcwYt8URe4euZ7TgU35OD3krWICoSIUEFT7QrMmpO8="
+  },
+  {
+    "pname": "Avalonia.Win32",
+    "version": "11.3.17",
+    "hash": "sha256-5jXzBRh3VTirqoPfugOhrDQPt0CFibB3JQXfgUAfk8g="
+  },
+  {
+    "pname": "Avalonia.X11",
+    "version": "11.3.17",
+    "hash": "sha256-GAtzkLfH7wMK3D1Mqy7UmBCAv4JeyKkm4Mt5H1HgOb0="
+  },
+  {
+    "pname": "Dock.Avalonia",
+    "version": "11.3.12.1",
+    "hash": "sha256-/I61jcw2KwTn2JM6x8XfyYxJUJ3NwDiRFWieKHC2dqg="
+  },
+  {
+    "pname": "Dock.Avalonia.Themes.Fluent",
+    "version": "11.3.12.1",
+    "hash": "sha256-yANzerQ6MM+f7wfpI9/80Tj6fi7CGJ4RgPvgtmmQfwQ="
+  },
+  {
+    "pname": "Dock.Controls.DeferredContentControl",
+    "version": "11.3.12.1",
+    "hash": "sha256-Cq8Q4Z0hVin3JAJse4/NWOZz8HBXHHj3tTd/k8qq9U8="
+  },
+  {
+    "pname": "Dock.Controls.ProportionalStackPanel",
+    "version": "11.3.12.1",
+    "hash": "sha256-fHv+cAAQIG0elgkE+Cf0zMRUd+M/TNpXXaTQmKUEEmA="
+  },
+  {
+    "pname": "Dock.Controls.Recycling",
+    "version": "11.3.12.1",
+    "hash": "sha256-CdIU9Nsic1xN3HjSzYVGCIa2iSZ24pJ82BQ0SQ5QvDU="
+  },
+  {
+    "pname": "Dock.Controls.Recycling.Model",
+    "version": "11.3.12.1",
+    "hash": "sha256-c1T49lvky1EXramJCJ/YNXUahlUZvHeMTbya7hQqUmQ="
+  },
+  {
+    "pname": "Dock.MarkupExtension",
+    "version": "11.3.12.1",
+    "hash": "sha256-OgyrWnXh9y6FJ2PauSIaCoEjuVOwZCKdPk6WMR7zFgY="
+  },
+  {
+    "pname": "Dock.Model",
+    "version": "11.3.12.1",
+    "hash": "sha256-44i5AAuYU9/QQGOzrj6QzdHdHBGOLqCAdKFbE5eMgy0="
+  },
+  {
+    "pname": "Dock.Model.Inpc",
+    "version": "11.3.12.1",
+    "hash": "sha256-mK9IlYraTfRTboTPXp2Uk4aQXw8FCPX8mXwTazXUajY="
+  },
+  {
+    "pname": "Dock.Settings",
+    "version": "11.3.12.1",
+    "hash": "sha256-JOpURHxJaJjhIlQUxNDRETKIvh3CwMs4EvjFIbRWAUU="
+  },
+  {
+    "pname": "DotNet.Bundle",
+    "version": "0.9.13",
+    "hash": "sha256-VA7wFPC2V4JudQ+edk6lFkklDPIHZYVWql8/KMzcnys="
+  },
+  {
+    "pname": "DynamicData",
+    "version": "9.4.31",
+    "hash": "sha256-//0EwmfDJFDeZSDf9xOPs+Qz0CEUPEiKZS6bIBhsHdw="
+  },
+  {
+    "pname": "ExCSS",
+    "version": "4.3.1",
+    "hash": "sha256-nNn5+YEaqKSULhtDsImNEyndU/MHna7VpZNUExmo80o="
+  },
+  {
+    "pname": "FFmpeg.AutoGen.Abstractions",
+    "version": "7.0.0",
+    "hash": "sha256-XzTI/qxfyTV4aozcVqAlgo5givzdx9rrCAUI4kdobcw="
+  },
+  {
+    "pname": "FFmpeg.AutoGen.Abstractions",
+    "version": "8.1.0",
+    "hash": "sha256-SfbBToR5NyCh5sK2CAiJI8URlXQvhy688S9iOWWu4Uk="
+  },
+  {
+    "pname": "FFmpeg.AutoGen.Bindings.DynamicallyLoaded",
+    "version": "8.1.0",
+    "hash": "sha256-SaZqOEvErw8pBnGdWGJTlgYaS2GWwF11+wQxwhSuxWg="
+  },
+  {
+    "pname": "FFmpeg4Sharp",
+    "version": "7.0.1",
+    "hash": "sha256-XcZwmHjyhn48rRxVigbCX0OLIXk7EZ8hJiFKA+0IfM4="
+  },
+  {
+    "pname": "FluentAvaloniaUI",
+    "version": "2.5.1",
+    "hash": "sha256-RE6keixFzExRjmq/8GzpnACbgGApm8LPHcf50WOso0M="
+  },
+  {
+    "pname": "FluentIcons.Common",
+    "version": "1.1.224",
+    "hash": "sha256-LO7nh/bV/lUmfWw5hEFPeJh7Tf8VZUVlEby5Gkb/MKw="
+  },
+  {
+    "pname": "FluentIcons.FluentAvalonia",
+    "version": "1.1.224",
+    "hash": "sha256-ajpYegSMBIpYpFeQrcF5LRQIPPKU8kaPmMQq/nS/xu0="
+  },
+  {
+    "pname": "HarfBuzzSharp",
+    "version": "8.3.1.1",
+    "hash": "sha256-614yv6bK9ynhdUnvW4wIkgpBe2sqTh28U9cDZzdhPc0="
+  },
+  {
+    "pname": "HarfBuzzSharp",
+    "version": "8.3.1.5",
+    "hash": "sha256-TYtZDQMRQh6nrzn5lnPCIg6X29TPWKN/u/1xRZJMkUs="
+  },
+  {
+    "pname": "HarfBuzzSharp.NativeAssets.Linux",
+    "version": "8.3.1.1",
+    "hash": "sha256-sBbez6fc9axVcsBbIHbpQh/MM5NHlMJgSu6FyuZzVyU="
+  },
+  {
+    "pname": "HarfBuzzSharp.NativeAssets.Linux",
+    "version": "8.3.1.5",
+    "hash": "sha256-a5W5zd7ANdCoWszRiinEIDisdxTTZqAESU3n8Lm2YVc="
+  },
+  {
+    "pname": "HarfBuzzSharp.NativeAssets.macOS",
+    "version": "8.3.1.1",
+    "hash": "sha256-hK20KbX2OpewIO5qG5gWw5Ih6GoLcIDgFOqCJIjXR/Q="
+  },
+  {
+    "pname": "HarfBuzzSharp.NativeAssets.macOS",
+    "version": "8.3.1.5",
+    "hash": "sha256-n3M98XpFeU2yIaWS7iO1dDArvjVCVGVvpN1JXEyaEE0="
+  },
+  {
+    "pname": "HarfBuzzSharp.NativeAssets.WebAssembly",
+    "version": "8.3.1.1",
+    "hash": "sha256-mLKoLqI47ZHXqTMLwP1UCm7faDptUfQukNvdq6w/xxw="
+  },
+  {
+    "pname": "HarfBuzzSharp.NativeAssets.Win32",
+    "version": "8.3.1.1",
+    "hash": "sha256-Um4iwLdz9XtaDSAsthNZdev6dMiy7OBoHOrorMrMYyo="
+  },
+  {
+    "pname": "HarfBuzzSharp.NativeAssets.Win32",
+    "version": "8.3.1.5",
+    "hash": "sha256-lAhW/vjJNzdU5UQ+IefwDHFskeRObQYtP/zkxjurK80="
+  },
+  {
+    "pname": "MicroCom.Runtime",
+    "version": "0.11.0",
+    "hash": "sha256-VdwpP5fsclvNqJuppaOvwEwv2ofnAI5ZSz2V+UEdLF0="
+  },
+  {
+    "pname": "Microsoft.AspNetCore.App.Runtime.osx-arm64",
+    "version": "10.0.9",
+    "hash": "sha256-dusHuCkt0giHHQnCOOutwn4mmOfSUPmzFBN0lU46PSo="
+  },
+  {
+    "pname": "Microsoft.AspNetCore.App.Runtime.osx-x64",
+    "version": "10.0.9",
+    "hash": "sha256-5RUOBLe93znjFaH9weBJeGSfkAICmm5IEneXn0wpGus="
+  },
+  {
+    "pname": "Microsoft.AspNetCore.App.Runtime.win-x64",
+    "version": "10.0.9",
+    "hash": "sha256-lNd7gaFPxgoYkGcSdwbJqT0U+vOpLaB/CikTKzJQewU="
+  },
+  {
+    "pname": "Microsoft.CodeAnalysis.Analyzers",
+    "version": "5.3.0",
+    "hash": "sha256-eUjU7MDekcbDQxUButcWK7siHx6HmrgdDMLnpGYRVLM="
+  },
+  {
+    "pname": "Microsoft.CodeAnalysis.Analyzers",
+    "version": "5.3.0-2.25625.1",
+    "hash": "sha256-W2CaLe+fpnD2/2VL6jPW/Ct17qOt4lGZKK2X8HU7MLI="
+  },
+  {
+    "pname": "Microsoft.CodeAnalysis.Common",
+    "version": "5.3.0",
+    "hash": "sha256-O5RVbqAWXL2FcCNtn+dPAVJ/5aiaxc8nQWojJSsx61w="
+  },
+  {
+    "pname": "Microsoft.CodeAnalysis.CSharp",
+    "version": "5.3.0",
+    "hash": "sha256-A3jxlZEyfgEn9unhoQqbOsA0wd/mA8aak6dRlu5mHIU="
+  },
+  {
+    "pname": "Microsoft.CodeAnalysis.CSharp.Scripting",
+    "version": "5.3.0",
+    "hash": "sha256-QgwDOamE+Ae371I9Ep1Yo1LG1pqXxbTsVEnr7M+FLSU="
+  },
+  {
+    "pname": "Microsoft.CodeAnalysis.Scripting.Common",
+    "version": "5.3.0",
+    "hash": "sha256-P/KxnbPb/1cIEYGCuNeTh/1fR6CUixKAul9GBiYqCrg="
+  },
+  {
+    "pname": "Microsoft.DotNet.PlatformAbstractions",
+    "version": "3.1.6",
+    "hash": "sha256-RfM2qXiqdiamPkXr4IDkNc0IZSF9iTZv4uou/E7zNS0="
+  },
+  {
+    "pname": "Microsoft.Extensions.Configuration",
+    "version": "10.0.0",
+    "hash": "sha256-MsLskVPpkCvov5+DWIaALCt1qfRRX4u228eHxvpE0dg="
+  },
+  {
+    "pname": "Microsoft.Extensions.Configuration",
+    "version": "10.0.9",
+    "hash": "sha256-4d8r6Vyune1Qb0kwqzfGPA7BK2nvaiOenTiJedzq6sU="
+  },
+  {
+    "pname": "Microsoft.Extensions.Configuration.Abstractions",
+    "version": "10.0.0",
+    "hash": "sha256-GcgrnTAieCV7AVT13zyOjfwwL86e99iiO/MiMOxPGG0="
+  },
+  {
+    "pname": "Microsoft.Extensions.Configuration.Abstractions",
+    "version": "10.0.9",
+    "hash": "sha256-pliaksEAQdxyPURUVSlXpfF3LzJB93zHaeEDsaF5QJE="
+  },
+  {
+    "pname": "Microsoft.Extensions.Configuration.Binder",
+    "version": "10.0.0",
+    "hash": "sha256-YSiWoA3VQR22k6+bSEAUqeG7UDzZlJfHWDTubUO5V8U="
+  },
+  {
+    "pname": "Microsoft.Extensions.Configuration.Binder",
+    "version": "10.0.9",
+    "hash": "sha256-ouJa+84H/bfMi67v25hjEWhTIyBHaWTJAoEvArwbrGA="
+  },
+  {
+    "pname": "Microsoft.Extensions.DependencyInjection",
+    "version": "10.0.0",
+    "hash": "sha256-LYm9hVlo/R9c2aAKHsDYJ5vY9U0+3Jvclme3ou3BtvQ="
+  },
+  {
+    "pname": "Microsoft.Extensions.DependencyInjection",
+    "version": "10.0.9",
+    "hash": "sha256-YIqgDknwTq48X88Imdrfav3tmQ6tZwIOYsLt6dT40M8="
+  },
+  {
+    "pname": "Microsoft.Extensions.DependencyInjection.Abstractions",
+    "version": "10.0.0",
+    "hash": "sha256-9iodXP39YqgxomnOPOxd/mzbG0JfOSXzFoNU3omT2Ps="
+  },
+  {
+    "pname": "Microsoft.Extensions.DependencyInjection.Abstractions",
+    "version": "10.0.9",
+    "hash": "sha256-YzQpGAsrjLU18s016LmM7DMJKml0MzKl1bPPYJ/erEk="
+  },
+  {
+    "pname": "Microsoft.Extensions.DependencyModel",
+    "version": "10.0.9",
+    "hash": "sha256-SuDaFM0AxxCsDxs/PiuJttWFpxdCQkKsh/y5KLOGsJI="
+  },
+  {
+    "pname": "Microsoft.Extensions.DependencyModel",
+    "version": "9.0.9",
+    "hash": "sha256-0ygY8JLOIKuYFwwdVCtDl8/8fV5IC9JgivfzXsjXXsI="
+  },
+  {
+    "pname": "Microsoft.Extensions.Diagnostics.Abstractions",
+    "version": "10.0.0",
+    "hash": "sha256-cix7QxQ/g3sj6reXu3jn0cRv2RijzceaLLkchEGTt5E="
+  },
+  {
+    "pname": "Microsoft.Extensions.FileSystemGlobbing",
+    "version": "10.0.9",
+    "hash": "sha256-+8gYl7xPmeTD5UazeddRKSfMttCDCoLyhNssP0Ddk04="
+  },
+  {
+    "pname": "Microsoft.Extensions.Logging",
+    "version": "10.0.0",
+    "hash": "sha256-P+zPAadLL63k/GqK34/qChqQjY9aIRxZfxlB9lqsSrs="
+  },
+  {
+    "pname": "Microsoft.Extensions.Logging",
+    "version": "10.0.9",
+    "hash": "sha256-644xYxPB+PtwGUTAKJV9wByXHWFkR5Ol0p08wFQwMm4="
+  },
+  {
+    "pname": "Microsoft.Extensions.Logging.Abstractions",
+    "version": "10.0.0",
+    "hash": "sha256-BnhgGZc01HwTSxogavq7Ueq4V7iMA3wPnbfRwQ4RhGk="
+  },
+  {
+    "pname": "Microsoft.Extensions.Logging.Abstractions",
+    "version": "10.0.9",
+    "hash": "sha256-su2q/OZuG7nB3wnUTVcimy3oHSdetFh4hhmjI3f/ym8="
+  },
+  {
+    "pname": "Microsoft.Extensions.Logging.Configuration",
+    "version": "10.0.0",
+    "hash": "sha256-7/TWO1aq8hdgbcTEKDBWIjgSC9KpFN3kRnMX+12bOkU="
+  },
+  {
+    "pname": "Microsoft.Extensions.Logging.Configuration",
+    "version": "10.0.9",
+    "hash": "sha256-fDtKa36XFBzdjwf0g9+mL4y2xE6Dce+YTO6dQaAYYZ8="
+  },
+  {
+    "pname": "Microsoft.Extensions.Logging.Console",
+    "version": "10.0.9",
+    "hash": "sha256-i6C3zk+s/ux+tCOnx7gDpoj2hFzBz61hqh0zfbZvHHo="
+  },
+  {
+    "pname": "Microsoft.Extensions.ObjectPool",
+    "version": "10.0.9",
+    "hash": "sha256-cbSH2Y5jrGojbCeRAXNlETn8o8KnrZbHHAHM1c+0Qgw="
+  },
+  {
+    "pname": "Microsoft.Extensions.Options",
+    "version": "10.0.0",
+    "hash": "sha256-j5MOqZSKeUtxxzmZjzZMGy0vELHdvPraqwTQQQNVsYA="
+  },
+  {
+    "pname": "Microsoft.Extensions.Options",
+    "version": "10.0.9",
+    "hash": "sha256-/fc1g1SDJI81nOZRS7W4LZIAC0ssmasqaWhgJK+9rRs="
+  },
+  {
+    "pname": "Microsoft.Extensions.Options.ConfigurationExtensions",
+    "version": "10.0.0",
+    "hash": "sha256-XGAs5DxMvWnmjX8dqRwKY0vsuS40SHvsfJqB1rO4L7k="
+  },
+  {
+    "pname": "Microsoft.Extensions.Options.ConfigurationExtensions",
+    "version": "10.0.9",
+    "hash": "sha256-XVKJrNjPo0hojY5V4xoLxedpvkqtr4GJqkCUhLKSTcQ="
+  },
+  {
+    "pname": "Microsoft.Extensions.Primitives",
+    "version": "10.0.0",
+    "hash": "sha256-Dup08KcptLjlnpN5t5//+p4n8FUTgRAq4n/w1s6us+I="
+  },
+  {
+    "pname": "Microsoft.Extensions.Primitives",
+    "version": "10.0.9",
+    "hash": "sha256-WEPtmlEexm6QSFR4ITlBHuUD5/bqMfecOxFe5hkbAPU="
+  },
+  {
+    "pname": "Microsoft.NETCore.App.Host.osx-arm64",
+    "version": "10.0.9",
+    "hash": "sha256-SXDpi/8w8xdDAa0RdWCEKJZiyqEi46oO6+WqwHF88+4="
+  },
+  {
+    "pname": "Microsoft.NETCore.App.Host.osx-x64",
+    "version": "10.0.9",
+    "hash": "sha256-Al2JsSEXqBQbzpqwBI4nnv0xDEkUU8/Z75EAX7FNN1Q="
+  },
+  {
+    "pname": "Microsoft.NETCore.App.Host.win-x64",
+    "version": "10.0.9",
+    "hash": "sha256-raBYoMayClYSaky4up+Er37otEeko7vKIdWBJ2H9yCo="
+  },
+  {
+    "pname": "Microsoft.NETCore.App.Runtime.osx-arm64",
+    "version": "10.0.9",
+    "hash": "sha256-4g5VtHyR1vo7bAy+Bj47B3m+7UmPLFvBWVTtDrjPGS4="
+  },
+  {
+    "pname": "Microsoft.NETCore.App.Runtime.osx-x64",
+    "version": "10.0.9",
+    "hash": "sha256-FLiTiBBSvMn8hbTog8licJa42dGp3lOOfO5rkwyp148="
+  },
+  {
+    "pname": "Microsoft.NETCore.App.Runtime.win-x64",
+    "version": "10.0.9",
+    "hash": "sha256-toEEau98wP+p/sOthl8DPHFlMAvSlcSokC8kFQo/pBQ="
+  },
+  {
+    "pname": "Microsoft.NETCore.Platforms",
+    "version": "1.1.0",
+    "hash": "sha256-FeM40ktcObQJk4nMYShB61H/E8B7tIKfl9ObJ0IOcCM="
+  },
+  {
+    "pname": "Microsoft.Windows.CsWin32",
+    "version": "0.3.298",
+    "hash": "sha256-EU9qxHmIBfDj/8YiQvmezxl+qlTFZaYP+mTlm1P9Sl4="
+  },
+  {
+    "pname": "Microsoft.Windows.SDK.Win32Docs",
+    "version": "0.1.42-alpha",
+    "hash": "sha256-6DvzmNzrGVfWmNJNqooj+Ya+7bAQlyeg7pmyKaUlIws="
+  },
+  {
+    "pname": "Microsoft.Windows.SDK.Win32Metadata",
+    "version": "63.0.31-preview",
+    "hash": "sha256-MMvQoyVT15IU93EKZ46rhP/hyx3wV452vuFnf8OTd60="
+  },
+  {
+    "pname": "Microsoft.Windows.SDK.Win32Metadata",
+    "version": "70.0.11-preview",
+    "hash": "sha256-JRcTFlzV+sDfgUKPtn0oOn25SdNivmhbS8+0HcAozu8="
+  },
+  {
+    "pname": "Microsoft.Windows.WDK.Win32Metadata",
+    "version": "0.13.25-experimental",
+    "hash": "sha256-eQeaRJ2PYhBSvK8TA55BHRwbd67EqJzwTZZRjQphlhc="
+  },
+  {
+    "pname": "Microsoft.WindowsDesktop.App.Ref",
+    "version": "10.0.9",
+    "hash": "sha256-mCyWcOHwI0owceS/kPQRRkzrhrshQk+vy4gA2+K4v5g="
+  },
+  {
+    "pname": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+    "version": "10.0.9",
+    "hash": "sha256-WCyK4UzTwPZR2L3W/NDXcWSJsEmNlt7Lb6MiAzBZMVU="
+  },
+  {
+    "pname": "NAudio.Core",
+    "version": "2.3.0",
+    "hash": "sha256-KUDC2+q+dzZCRUkifePSfxAQCFi+VpIKsSDkYht/Mgw="
+  },
+  {
+    "pname": "NAudio.Wasapi",
+    "version": "2.3.0",
+    "hash": "sha256-uAgw3rg08Bg42H723D0Xfbpc3mWCWbuYIL1gGU7llfE="
+  },
+  {
+    "pname": "NETStandard.Library",
+    "version": "2.0.3",
+    "hash": "sha256-Prh2RPebz/s8AzHb2sPHg3Jl8s31inv9k+Qxd293ybo="
+  },
+  {
+    "pname": "Newtonsoft.Json",
+    "version": "13.0.3",
+    "hash": "sha256-hy/BieY4qxBWVVsDqqOPaLy1QobiIapkbrESm6v2PHc="
+  },
+  {
+    "pname": "Nito.AsyncEx",
+    "version": "5.1.2",
+    "hash": "sha256-9o4YLWAHSeApF4E/qNFyaZPh/V9N5JSeF32uquukb5I="
+  },
+  {
+    "pname": "Nito.AsyncEx.Context",
+    "version": "5.1.2",
+    "hash": "sha256-7BCVYJgZyU2/Z4r8CKajorlzajr6GBUBAbY3AcswPC0="
+  },
+  {
+    "pname": "Nito.AsyncEx.Coordination",
+    "version": "5.1.2",
+    "hash": "sha256-NHMnIBkGzzuoZL0qHKAwFC35doB08IDvmCQptC2uu2s="
+  },
+  {
+    "pname": "Nito.AsyncEx.Interop.WaitHandles",
+    "version": "5.1.2",
+    "hash": "sha256-1DgBWnkYggWQk0w2g7Y24Ogl7TJ7bQkc/0NIUFJzN00="
+  },
+  {
+    "pname": "Nito.AsyncEx.Oop",
+    "version": "5.1.2",
+    "hash": "sha256-1hnCagbt6SLbn+RpasWdBH3pLvqm8kC2Ut2iG75OUMM="
+  },
+  {
+    "pname": "Nito.AsyncEx.Tasks",
+    "version": "5.1.2",
+    "hash": "sha256-W5jxZZ0pbPHte6TkWTq4FDtHOejvlrdyb1Inw+Yhl4c="
+  },
+  {
+    "pname": "Nito.Cancellation",
+    "version": "1.1.2",
+    "hash": "sha256-oZKZUymYJiM2AfMpX4pX0FIlut0lEWdy250iVX0w+is="
+  },
+  {
+    "pname": "Nito.Collections.Deque",
+    "version": "1.1.1",
+    "hash": "sha256-6Pmz6XQ+rY32O21Z3cUDVQsLH+i53LId18UCPTAxRZQ="
+  },
+  {
+    "pname": "Nito.Disposables",
+    "version": "2.2.1",
+    "hash": "sha256-FKDLUWysqroSHLU2kLjK1m0g417AAPh6n2TIkwiapcM="
+  },
+  {
+    "pname": "NuGet.Common",
+    "version": "7.6.0",
+    "hash": "sha256-amMiRHEwKpmZ0tXjsLBGOz9pTagbuBYmzN2oUlFgjWA="
+  },
+  {
+    "pname": "NuGet.Configuration",
+    "version": "7.6.0",
+    "hash": "sha256-yg60WRuOsAeO51Ax06FdeagIjvA1K4OYqnV0yoR6UMA="
+  },
+  {
+    "pname": "NuGet.DependencyResolver.Core",
+    "version": "7.6.0",
+    "hash": "sha256-gYe/dtvoOldqYmx+9mpsTJkNTkhJheLgMYI+nxLqQKQ="
+  },
+  {
+    "pname": "NuGet.Frameworks",
+    "version": "7.6.0",
+    "hash": "sha256-BNgwXyNLZha+ROnqzDke7L2NRgSHVfh6XIc1bkBrhP8="
+  },
+  {
+    "pname": "NuGet.LibraryModel",
+    "version": "7.6.0",
+    "hash": "sha256-hzUI0e2+w1S9BQ6eAvK0sAR2l+tcPdUNSPpFiEueQ4Y="
+  },
+  {
+    "pname": "NuGet.Packaging",
+    "version": "7.6.0",
+    "hash": "sha256-iEKjMWIiw+e9+2pWJegaMo8trPCHl/y2kA4GFMBhfEY="
+  },
+  {
+    "pname": "NuGet.ProjectModel",
+    "version": "7.6.0",
+    "hash": "sha256-sx4enIJ7RCBrwPD48gMqaWMou1EFtgP2SwFAiUdILw0="
+  },
+  {
+    "pname": "NuGet.Protocol",
+    "version": "7.6.0",
+    "hash": "sha256-CXdmTVhSWtbCSJJHQl4cqXAzBMER6HwSG0JcKxF9oq8="
+  },
+  {
+    "pname": "NuGet.Resolver",
+    "version": "7.6.0",
+    "hash": "sha256-QCUvFgkRbeRp3VeUMpynqQpZvbZb9Dl93HmTrvf+bQc="
+  },
+  {
+    "pname": "NuGet.Versioning",
+    "version": "7.6.0",
+    "hash": "sha256-HmQBQ808F5jGNQ1We6Ry16G98kPnBVoyoZ8oTyOGoiQ="
+  },
+  {
+    "pname": "OpenTelemetry",
+    "version": "1.16.0",
+    "hash": "sha256-KViNS0YOkmVeF6TxUyiafJELGycUPIKCOn4Aex9EYl0="
+  },
+  {
+    "pname": "OpenTelemetry.Api",
+    "version": "1.16.0",
+    "hash": "sha256-7ucxafQ9Agc9CCD9OD1C5SSZ+MXfttJrGlDiXTz2+8A="
+  },
+  {
+    "pname": "OpenTelemetry.Api.ProviderBuilderExtensions",
+    "version": "1.16.0",
+    "hash": "sha256-DjEfeTGE0Y5FIpk+HrlOUiP11hgXHV41L3Xh3irPhmo="
+  },
+  {
+    "pname": "OpenTelemetry.Exporter.OpenTelemetryProtocol",
+    "version": "1.16.0",
+    "hash": "sha256-g7bEvtm84xHHFOVFPa3QYwuIIZ1fCUamM3Hw4lBajlQ="
+  },
+  {
+    "pname": "PanAndZoom",
+    "version": "11.3.9.1",
+    "hash": "sha256-GBY4vVD5fD4+45L/YTz5/EtXjHMsWUH4K0gvhrSYxBE="
+  },
+  {
+    "pname": "PanelExtension",
+    "version": "1.0.0",
+    "hash": "sha256-z+YsSdTNi3dNAlGYyMhKGcMbls7xE/LlwdoKYgKDRMY="
+  },
+  {
+    "pname": "ReactiveProperty",
+    "version": "9.8.0",
+    "hash": "sha256-tVBcBxi0V/uU6vwgTrdTw0K+q8RsZNLK2bvw1wVc1N4="
+  },
+  {
+    "pname": "ReactiveProperty.Core",
+    "version": "9.8.0",
+    "hash": "sha256-SWjEbR704QLZqlZUcOkDDrTjDty/Iz4O2jsN6CFSulM="
+  },
+  {
+    "pname": "ReactiveUI",
+    "version": "23.2.28",
+    "hash": "sha256-GaPH7EqdaamvhyVphO9TLfD5dFMVV2gA33JwbR6Lzoc="
+  },
+  {
+    "pname": "ReactiveUI.Avalonia",
+    "version": "11.4.13",
+    "hash": "sha256-pU4a9WuqJdsxbnXuaXiYLlwLp1C4LkF/LRtmNd87yz4="
+  },
+  {
+    "pname": "Refit",
+    "version": "11.2.0",
+    "hash": "sha256-NmjCylmcNYr/cF4rDp5KNaRJS04x6/dSo+d5DaT7KX8="
+  },
+  {
+    "pname": "Roslynator.Analyzers",
+    "version": "4.15.0",
+    "hash": "sha256-NACDl8bu5GXzS62uwSpGGhacQrqsfnsG8XSg+cS94rY="
+  },
+  {
+    "pname": "Serilog",
+    "version": "4.0.0",
+    "hash": "sha256-j8hQ5TdL1TjfdGiBO9PyHJFMMPvATHWN1dtrrUZZlNw="
+  },
+  {
+    "pname": "Serilog",
+    "version": "4.1.0",
+    "hash": "sha256-r89nJ5JE5uZlsRrfB8QJQ1byVVfCWQbySKQ/m9PYj0k="
+  },
+  {
+    "pname": "Serilog",
+    "version": "4.2.0",
+    "hash": "sha256-7f3EpCsEbDxXgsuhE430KVI14p7oDUuCtwRpOCqtnbs="
+  },
+  {
+    "pname": "Serilog.Extensions.Logging",
+    "version": "10.0.0",
+    "hash": "sha256-MgfWK/SJWUPxPzrnCUnxn6Sy+SBVmP3dYd60uy80NdE="
+  },
+  {
+    "pname": "Serilog.Sinks.Async",
+    "version": "2.1.0",
+    "hash": "sha256-LDoLpXkleD2MVPK2KBsLGRf5yqrwckBiAnYDbuIbaUM="
+  },
+  {
+    "pname": "Serilog.Sinks.Debug",
+    "version": "3.0.0",
+    "hash": "sha256-7/LmoRF1rUDFhJ47bTRQQFRgSHnZDO8484r3sCGqYvE="
+  },
+  {
+    "pname": "Serilog.Sinks.File",
+    "version": "7.0.0",
+    "hash": "sha256-LxZYUoUPkCjIIVarJilnXnqQiMrFNJtoRilmzTNtUjo="
+  },
+  {
+    "pname": "SharpGen.Runtime",
+    "version": "2.4.2-beta",
+    "hash": "sha256-W9zr7gvcPBXcbptz+C+qmFdep0m5LWrjAQb+tEvSPxg="
+  },
+  {
+    "pname": "SharpGen.Runtime.COM",
+    "version": "2.4.2-beta",
+    "hash": "sha256-Mqga7FH5/+4zdqKdt/miRH4lDPHMzTUuoC/E3En9BGw="
+  },
+  {
+    "pname": "ShimSkiaSharp",
+    "version": "3.7.0",
+    "hash": "sha256-eOrKH8VI4YJTM/d3Yf8A+3JNioIdsDaEOhOUqE9YJJk="
+  },
+  {
+    "pname": "Silk.NET.Assimp",
+    "version": "2.23.0",
+    "hash": "sha256-NULnG4INx/V7+LGc0kCxnPCT4xkSPano9XjUIQixh1g="
+  },
+  {
+    "pname": "Silk.NET.Core",
+    "version": "2.23.0",
+    "hash": "sha256-LgrnZcux09Vx7JUlfH4+ycJZO5Iv6PSy+5kV+I6owwE="
+  },
+  {
+    "pname": "Silk.NET.Maths",
+    "version": "2.23.0",
+    "hash": "sha256-bEcetJ2bWXsQ4VvgsktjurRFI975SA4zGOCPvAFxz0o="
+  },
+  {
+    "pname": "Silk.NET.MoltenVK.Native",
+    "version": "2.23.0",
+    "hash": "sha256-rp1rsaY8/FvThL83ZkA2jgtvfCR4xf/FLceSZQmf6+U="
+  },
+  {
+    "pname": "Silk.NET.OpenAL",
+    "version": "2.23.0",
+    "hash": "sha256-IKbF3BVQtSu67ajuvLJzJo1Btfn05c7i52/Z2tL7U2E="
+  },
+  {
+    "pname": "Silk.NET.OpenAL.Soft.Native",
+    "version": "1.23.1",
+    "hash": "sha256-/LodBwNk89bXVtyA6U1SwvQnVBCap1aBMzdHq1gUY+o="
+  },
+  {
+    "pname": "Silk.NET.Shaderc",
+    "version": "2.23.0",
+    "hash": "sha256-p1wzO9MRwgNLmTzby9fuQ7Zblem7ogb+3H5wtH90plM="
+  },
+  {
+    "pname": "Silk.NET.Shaderc.Native",
+    "version": "2.23.0",
+    "hash": "sha256-UPZ9Xrrv6XvVX5sO7UBE9XySVnXVUQDTWlFxjMq5SL4="
+  },
+  {
+    "pname": "Silk.NET.Vulkan",
+    "version": "2.23.0",
+    "hash": "sha256-bXlKSRPHb4tEZ8hum0gLtzLZuRPHY0iPKfZu5vnk5SE="
+  },
+  {
+    "pname": "Silk.NET.Vulkan.Extensions.EXT",
+    "version": "2.23.0",
+    "hash": "sha256-Nf71k3ZNwGV83yUEcul2HYj/8J7kGeHyWVTRaJ1kCyQ="
+  },
+  {
+    "pname": "Silk.NET.Vulkan.Extensions.KHR",
+    "version": "2.23.0",
+    "hash": "sha256-9kYroJsQohE3EN1Roxp7YeBFuCm3iq4nuS9AINZFMNw="
+  },
+  {
+    "pname": "Silk.NET.Vulkan.Loader.Native",
+    "version": "2025.9.12",
+    "hash": "sha256-M4EcBasLy6YyrTirukWbDXLW5YhZNC4HgtARhj3eB9E="
+  },
+  {
+    "pname": "Silk.NET.Vulkan.SwiftShader.Native",
+    "version": "2025.9.8",
+    "hash": "sha256-xlt+r1tL/Dqn/48AVfdjofiJjfgDa7RcxXk8YyeHaxc="
+  },
+  {
+    "pname": "SkiaSharp",
+    "version": "2.88.9",
+    "hash": "sha256-jZ/4nVXYJtrz9SBf6sYc/s0FxS7ReIYM4kMkrhZS+24="
+  },
+  {
+    "pname": "SkiaSharp",
+    "version": "3.119.4",
+    "hash": "sha256-4ypEnTGUXAudFp61vGduHj9YmqtpiI5J1wP9wcOEwXY="
+  },
+  {
+    "pname": "SkiaSharp.HarfBuzz",
+    "version": "3.119.4",
+    "hash": "sha256-yUt67HxiRrJV7oyI7L28KyhuKVYF1pSux2tHqUtMrss="
+  },
+  {
+    "pname": "SkiaSharp.NativeAssets.Linux",
+    "version": "2.88.9",
+    "hash": "sha256-mQ/oBaqRR71WfS66mJCvcc3uKW7CNEHoPN2JilDbw/A="
+  },
+  {
+    "pname": "SkiaSharp.NativeAssets.Linux",
+    "version": "3.119.4",
+    "hash": "sha256-+uBVQFmxEH73iI5GwgvftUhAHvenpvc5GtT63HQy1Qo="
+  },
+  {
+    "pname": "SkiaSharp.NativeAssets.macOS",
+    "version": "2.88.9",
+    "hash": "sha256-qvGuAmjXGjGKMzOPBvP9VWRVOICSGb7aNVejU0lLe/g="
+  },
+  {
+    "pname": "SkiaSharp.NativeAssets.macOS",
+    "version": "3.119.4",
+    "hash": "sha256-9/L1Oc5bujN6pKjW6sJcr1jL3RLt8/Mt3MmClOcwzyw="
+  },
+  {
+    "pname": "SkiaSharp.NativeAssets.WebAssembly",
+    "version": "2.88.9",
+    "hash": "sha256-vgFL4Pdy3O1RKBp+T9N3W4nkH9yurZ0suo8u3gPmmhY="
+  },
+  {
+    "pname": "SkiaSharp.NativeAssets.Win32",
+    "version": "2.88.9",
+    "hash": "sha256-kP5XM5GgwHGfNJfe4T2yO5NIZtiF71Ddp0pd1vG5V/4="
+  },
+  {
+    "pname": "SkiaSharp.NativeAssets.Win32",
+    "version": "3.119.4",
+    "hash": "sha256-WlaYsbTh/cn/6YaN9odNtfpp8hpN52unGgGlQum0M5E="
+  },
+  {
+    "pname": "Splat",
+    "version": "19.4.1",
+    "hash": "sha256-+huQc0B/7XQA7zPf+4jFLXfBj6Y8K9gRRp7tATKuXH8="
+  },
+  {
+    "pname": "Splat.Builder",
+    "version": "19.4.1",
+    "hash": "sha256-fVTi/MpA4t6QR3+NgNTL3lRwcVCkKFAZYHGDvChVadM="
+  },
+  {
+    "pname": "Splat.Core",
+    "version": "19.4.1",
+    "hash": "sha256-0XxTbnSH8yLC6XSbnhm1qv3YlDYTzpvFJlt/6mz0o/g="
+  },
+  {
+    "pname": "Splat.Logging",
+    "version": "19.4.1",
+    "hash": "sha256-nk4NgktArB7v9HNdu9NnewYQcwaQl+fZlRZbieXW6Dw="
+  },
+  {
+    "pname": "Svg.Controls.Skia.Avalonia",
+    "version": "11.3.9.5",
+    "hash": "sha256-RcWFuwer62RsMHKwIFLTaxx5XkIAZXSK6zaEXjv7Bbs="
+  },
+  {
+    "pname": "Svg.Custom",
+    "version": "3.7.0",
+    "hash": "sha256-5CGY4VuLhJXE0P/FlXKtV+A0y1XjpnR+8E0B45HFfLA="
+  },
+  {
+    "pname": "Svg.Model",
+    "version": "3.7.0",
+    "hash": "sha256-AR0iiU8l3km8zjlVpSTM/485wI3Oa5cCi8hZklrGZ7Q="
+  },
+  {
+    "pname": "Svg.Skia",
+    "version": "3.7.0",
+    "hash": "sha256-CrNP9QBR8UE6esmkkbYknQGmfXsJ+1+wqNhdokdyT0g="
+  },
+  {
+    "pname": "System.Buffers",
+    "version": "4.6.0",
+    "hash": "sha256-c2QlgFB16IlfBms5YLsTCFQ/QeKoS6ph1a9mdRkq/Jc="
+  },
+  {
+    "pname": "System.CodeDom",
+    "version": "10.0.9",
+    "hash": "sha256-epsp/BTozFoOhn6gOWYo8+Ff7GZXRqMc5F3oElKwgII="
+  },
+  {
+    "pname": "System.Collections.Immutable",
+    "version": "9.0.0",
+    "hash": "sha256-+6q5VMeoc5bm4WFsoV6nBXA9dV5pa/O4yW+gOdi8yac="
+  },
+  {
+    "pname": "System.CommandLine",
+    "version": "2.0.9",
+    "hash": "sha256-3v9Man1oj9kOhDwm1+9VWseFEL5Zkrtzcw9WuKt2vwE="
+  },
+  {
+    "pname": "System.ComponentModel.Annotations",
+    "version": "5.0.0",
+    "hash": "sha256-0pST1UHgpeE6xJrYf5R+U7AwIlH3rVC3SpguilI/MAg="
+  },
+  {
+    "pname": "System.Interactive",
+    "version": "7.0.1",
+    "hash": "sha256-WuHFO6xRrbxODGpZNwsBlcYZVImiJyVYnypglEtV31M="
+  },
+  {
+    "pname": "System.Management",
+    "version": "10.0.9",
+    "hash": "sha256-ITI8kUzHFW0/WOxqb1U9zlAjIDoYTZgOm3RN5k+rQZY="
+  },
+  {
+    "pname": "System.Memory",
+    "version": "4.5.5",
+    "hash": "sha256-EPQ9o1Kin7KzGI5O3U3PUQAZTItSbk9h/i4rViN3WiI="
+  },
+  {
+    "pname": "System.Memory",
+    "version": "4.6.0",
+    "hash": "sha256-OhAEKzUM6eEaH99DcGaMz2pFLG/q/N4KVWqqiBYUOFo="
+  },
+  {
+    "pname": "System.Numerics.Vectors",
+    "version": "4.6.0",
+    "hash": "sha256-fKS3uWQ2HmR69vNhDHqPLYNOt3qpjiWQOXZDHvRE1HU="
+  },
+  {
+    "pname": "System.Reactive",
+    "version": "6.1.0",
+    "hash": "sha256-zACYoZmKxHo0qKY8FOVa7jIsw7dN7WjdXdRRV95qY2Y="
+  },
+  {
+    "pname": "System.Reflection.Metadata",
+    "version": "9.0.0",
+    "hash": "sha256-avEWbcCh7XgpsSesnR3/SgxWi/6C5OxjR89Jf/SfRjQ="
+  },
+  {
+    "pname": "System.Runtime.CompilerServices.Unsafe",
+    "version": "6.0.0",
+    "hash": "sha256-bEG1PnDp7uKYz/OgLOWs3RWwQSVYm+AnPwVmAmcgp2I="
+  },
+  {
+    "pname": "System.Runtime.CompilerServices.Unsafe",
+    "version": "6.1.0",
+    "hash": "sha256-NyqqpRcHumzSxpsgRDguD5SGwdUNHBbo0OOdzLTIzCU="
+  },
+  {
+    "pname": "System.Security.Cryptography.Pkcs",
+    "version": "8.0.1",
+    "hash": "sha256-KMNIkJ3yQ/5O6WIhPjyAIarsvIMhkp26A6aby5KkneU="
+  },
+  {
+    "pname": "System.Security.Cryptography.ProtectedData",
+    "version": "8.0.0",
+    "hash": "sha256-fb0pa9sQxN+mr0vnXg1Igbx49CaOqS+GDkTfWNboUvs="
+  },
+  {
+    "pname": "System.Text.Encoding.CodePages",
+    "version": "8.0.0",
+    "hash": "sha256-fjCLQc1PRW0Ix5IZldg0XKv+J1DqPSfu9pjMyNBp7dE="
+  },
+  {
+    "pname": "System.Threading.Tasks.Extensions",
+    "version": "4.6.0",
+    "hash": "sha256-OwIB0dpcdnyfvTUUj6gQfKW2XF2pWsQhykwM1HNCHqY="
+  },
+  {
+    "pname": "Tmds.DBus.Protocol",
+    "version": "0.21.3",
+    "hash": "sha256-HVEIHSeSe29ergHxsNvWYu3o7Ai8VZKo09yFn+miTnI="
+  },
+  {
+    "pname": "Ultz.Native.Assimp",
+    "version": "6.0.2",
+    "hash": "sha256-t6jaDUjqh7xuNi48cHq+CbFDcYeHZ2/WAH6/b+3Bryo="
+  },
+  {
+    "pname": "Vortice.DirectX",
+    "version": "3.8.3",
+    "hash": "sha256-2dZ9O+YiZBH7op992Huv/oJNvwSPOcGHiHntHOqefBM="
+  },
+  {
+    "pname": "Vortice.Mathematics",
+    "version": "2.1.0",
+    "hash": "sha256-Ffrv54a8W7ii4P4ec/rnA48aoiBP9xHDWBlEzXf/ra4="
+  },
+  {
+    "pname": "Vortice.MediaFoundation",
+    "version": "3.8.3",
+    "hash": "sha256-iqJhqvFeG49JAFJK02/i69qlbF9VPiSSTa7lTKlS4cA="
+  },
+  {
+    "pname": "Vortice.XAudio2",
+    "version": "3.8.3",
+    "hash": "sha256-1pNYV4PadIq43geh3f8a+OugvxpGqQ/4NOTzxR7Cuxg="
+  },
+  {
+    "pname": "Xaml.Behaviors.Avalonia",
+    "version": "11.3.9.6",
+    "hash": "sha256-iaoYZYasiV51wK0rRAih4w1RN6qx4hOHAMLKMcXKKzI="
+  },
+  {
+    "pname": "Xaml.Behaviors.Interactions",
+    "version": "11.3.9.6",
+    "hash": "sha256-zfby79scik9dZ54RoBQup1OOas9+Vh8xQ/XyTGFM7Mw="
+  },
+  {
+    "pname": "Xaml.Behaviors.Interactions.Custom",
+    "version": "11.3.9.6",
+    "hash": "sha256-hD5D+iSP2NlqiTr/35zxTZW1uvR5ouGqPLZQKK4t3b0="
+  },
+  {
+    "pname": "Xaml.Behaviors.Interactions.DragAndDrop",
+    "version": "11.3.9.6",
+    "hash": "sha256-Xp17rIDgvFBPSbH+q+IdFhWqrEzJuvPqBZOFjYpG2qQ="
+  },
+  {
+    "pname": "Xaml.Behaviors.Interactions.Draggable",
+    "version": "11.3.9.6",
+    "hash": "sha256-hPKPi3UHuDjJecysefarOGlHGkIwK4DiRRXVcTmzD4g="
+  },
+  {
+    "pname": "Xaml.Behaviors.Interactions.Events",
+    "version": "11.3.9.6",
+    "hash": "sha256-e0kAQmAKS9YcR0jxEfvHtZGn7IMkkai75LjPHLSrBa4="
+  },
+  {
+    "pname": "Xaml.Behaviors.Interactions.Responsive",
+    "version": "11.3.9.6",
+    "hash": "sha256-4+GV58KSUC/t9m4bK1MqxuxPHbrBr3xOucWd8O0RCnc="
+  },
+  {
+    "pname": "Xaml.Behaviors.Interactivity",
+    "version": "11.3.9.6",
+    "hash": "sha256-PZkUVVSLv1FbE1dzGPC1Mkr+8wiEtzNqNyBrU7hscow="
+  }
+]
