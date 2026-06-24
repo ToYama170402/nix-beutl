@@ -17,7 +17,7 @@
       pkgs = nixpkgs.legacyPackages.${system};
     in
     {
-      packages.Beutl = pkgs.buildDotnetModule {
+      packages.default = pkgs.buildDotnetModule {
         pname = "Beutl";
         version = "2.0.0";
         src = pkgs.fetchFromGitHub {
