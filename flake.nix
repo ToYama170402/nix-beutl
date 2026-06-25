@@ -40,6 +40,7 @@
         libxcursor
         libxext
         ffmpeg
+        openal
       ];
     };
   };
