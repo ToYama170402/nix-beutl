@@ -47,7 +47,12 @@
 
       postInstall = ''
         mkdir -p $out/share/applications
-        cp packages/ubuntu22.04_amd64/usr/share/applications/beutl.desktop $out/share/applications/
+        substitute packages/ubuntu22.04_amd64/usr/share/applications/beutl.desktop $out/share/applications/beutl.desktop \
+          --replace "Exec=/usr/bin/beutl" "Exec=$out/bin/Beutl" \
+          --replace "Icon=/usr/share/pixmaps/beutl_icon.png" "Icon=$out/share/icons/hicolor/256x256/apps/beutl.png"
+
+        mkdir -p $out/share/icons/hicolor/256x256/apps
+        cp packages/ubuntu22.04_amd64/usr/share/pixmaps/beutl_icon.png $out/share/icons/hicolor/256x256/apps/beutl.png
       '';
     };
   };
