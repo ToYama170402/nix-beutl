@@ -35,6 +35,8 @@
       dotnetBuildFlags = [ "-p:TargetFramework=net10.0" ];
       dotnetInstallFlags = [ "-p:TargetFramework=net10.0" ];
 
+      nativeBuildInputs = with pkgs; [ makeWrapper ];
+
       runtimeDeps = with pkgs; [
         libx11
         libxcursor
@@ -42,6 +44,11 @@
         ffmpeg
         openal
       ];
+
+      postInstall = ''
+        mkdir -p $out/share/applications
+        cp packages/ubuntu22.04_amd64/usr/share/applications/beutl.desktop $out/share/applications/
+      '';
     };
   };
 }
