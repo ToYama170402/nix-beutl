@@ -17,12 +17,13 @@
   {
     packages.${system}.default = pkgs.buildDotnetModule {
       pname = "Beutl";
-      version = "2.0.0";
+      version = "2.0.0-preview.6+7abb69ab71";
       src = pkgs.fetchFromGitHub {
         owner = "b-editor";
         repo = "beutl";
-        rev = "a24a93c211001f05eeb626691b9ae89cb1780390";
-        hash = "sha256-peWRmgjhQD+DGz7k8Wiydzvu73I1EIRAGSZKw296f7Y=";
+        rev = "7abb69ab71eedc936f4887ca10f42f1f616cddb5";
+        hash = "sha256-iwZJL4lhNz3HAr2kR6ezFXwcoErW6eOUiQ3XVW9/Q7M=";
+        fetchSubmodules = true;
       };
       projectFile = [
           "src/Beutl/Beutl.csproj"
